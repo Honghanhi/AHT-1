@@ -1,2 +1,6 @@
-Flask
+opencv-python
+numpy
+pillow
+flask
 flask-cors
+tensorflow
